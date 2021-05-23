@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading {
+  text-align: center;
+  margin: 2rem;
+}
+body {
+  background-image: url("./img/minion-2.jpeg");
+  background-size: cover;
+}
+textarea {
+  display: block;
+  margin: 20px auto;
+  width: 400px;
+  padding: 10px;
+  border-radius: 1rem;
+}
+
+#translateBtn {
+  display: block;
+  margin: 20px auto;
+  height: 40px;
+  width: 150px;
+  border: none;
+  background-color: teal;
+  color: white;
+  font-size: medium;
+}
